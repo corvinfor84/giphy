@@ -1,0 +1,38 @@
+body {
+
+	background-color: grey;
+
+}
+
+.jumbotron {
+
+	background-color: blue !important;
+
+}
+#searchButton {
+
+	margin-right: 5px;
+	margin-top: 10px;
+
+}
+
+#sidebar {
+
+	padding: 15px;
+	border: 1px solid #ddd;
+	margin-right: 30px;
+
+}
+
+.btn {
+
+	margin-right: 5px;
+	margin-bottom: 10px;
+
+}
+
+#maincontent {
+
+	width: 560px;
+
+}
